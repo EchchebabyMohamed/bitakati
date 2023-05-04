@@ -12,7 +12,7 @@ class ContainerC extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Card(
-      margin: const EdgeInsets.symmetric(vertical: 10, horizontal: 50),
+      margin: const EdgeInsets.symmetric(vertical: 10, horizontal: 30),
       child: ListTile(
         leading: Icon(
           icon,

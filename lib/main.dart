@@ -52,7 +52,7 @@ class Mywidget extends StatelessWidget {
                 ),
                 ContainerC(
                   icon: Icons.email,
-                  text: "@gmail.com",
+                  text: "mohamed@gmail.com",
                 ),
                 ContainerC(
                   icon: Icons.person,
